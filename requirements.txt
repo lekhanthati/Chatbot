@@ -1,0 +1,10 @@
+python-dotenv
+langchain_community
+langchain-openai
+langchain_core
+typing
+langgraph
+langchain-tavily
+wikipedia 
+arxiv
+streamlit
