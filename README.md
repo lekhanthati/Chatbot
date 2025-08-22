@@ -1,5 +1,3 @@
-
-
 ## Objective:
 
 To Develop a End to End Agetic Chatbot.
@@ -34,10 +32,4 @@ chatbot/
 ---
 
 ## Thank you
-
-5)	 The algorithm is trained till the desired value of metric such that the Generator is able to generate real like images till the point the Discriminator is unable to identify.
-
-
-## Thank you
-
 
